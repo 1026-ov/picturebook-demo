@@ -1,0 +1,15 @@
+[
+  {
+    "book_id": "demo-book",
+    "title": "方方照到了什么",
+    "pdf_file": null,
+    "pages_file": "books/demo-book/pages.json",
+    "pdf_page_count": 2,
+    "cover_pdf_page": 1,
+    "status": "demo_ready",
+    "file_format": "JPG",
+    "source_file": null,
+    "sha256": null,
+    "publication_status": "original_demo"
+  }
+]
